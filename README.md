@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** designed to analyze ecommerce sales perfor
 
 ## 📌 Dashboard Preview
 
-![Madhav Ecommerce Sales Dashboard](Screenshot\Full_Dashboard.jpeg)
+![Madhav Ecommerce Sales Dashboard](Screenshot/Full_Dashboard.jpeg)
 
 ## 🎯 Project Objective
 
